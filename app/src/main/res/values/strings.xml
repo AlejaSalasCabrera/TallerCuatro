@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">TallerCuatro</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="str_item_1">Pantalla 1</string>
+    <string name="str_item_2">Pantalla 2</string>
+    <string name="str_item_3">Pantalla 3</string>
+
+    <string name="str_1">SPRING!</string>
+    <string name="str_2">Spring Season.</string>
+    <string name="str_3">Opened!</string>
+    <string name="str_4">Discover our topsellers</string>
+    <string name="str_5">Helena</string>
+    <string name="str_6">$ 120</string>
+    <string name="str_7">$ -180</string>
+    <string name="str_8">Betruscka</string>
+    <string name="str_9">$ 80</string>
+
+    <string name="str_10">Mike Creative Minst</string>
+    <string name="str_11">UI / UX Designer at KREATIVE</string>
+    <string name="str_12">iOS Game / Making of Game Concept</string>
+    <string name="str_13">Game design, illustration, iOS, Fine arts, digital art</string>
+    <string name="str_14">24k</string>
+    <string name="str_15">73k</string>
+    <string name="str_16">345</string>
+    <string name="str_17">CANCELAR</string>
+    <string name="str_18">GUARDAR</string>
+
+</resources>
