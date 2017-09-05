@@ -31,7 +31,7 @@ public class MainActivity extends AppCompatActivity {
                                 .setTransition(FragmentTransaction.TRANSIT_FRAGMENT_FADE)
                                 .addToBackStack(null)
                                 .commit();
-                        Toast.makeText(MainActivity.this, "ITEM 1", Toast.LENGTH_SHORT).show();
+                        Toast.makeText(MainActivity.this, "Taller", Toast.LENGTH_SHORT).show();
                         break;
                     case R.id.item_2:
                         DosFragment p2= new DosFragment();
@@ -41,7 +41,7 @@ public class MainActivity extends AppCompatActivity {
                                 .setTransition(FragmentTransaction.TRANSIT_FRAGMENT_FADE)
                                 .addToBackStack(null)
                                 .commit();
-                        Toast.makeText(MainActivity.this, "ITEM 2", Toast.LENGTH_SHORT).show();
+                        Toast.makeText(MainActivity.this, "Quiz", Toast.LENGTH_SHORT).show();
                         break;
                     case R.id.item_3:
                         TresFragment p3= new TresFragment();
@@ -51,7 +51,7 @@ public class MainActivity extends AppCompatActivity {
                                 .setTransition(FragmentTransaction.TRANSIT_FRAGMENT_FADE)
                                 .addToBackStack(null)
                                 .commit();
-                        Toast.makeText(MainActivity.this, "ITEM 3", Toast.LENGTH_SHORT).show();
+                        Toast.makeText(MainActivity.this, "Musica", Toast.LENGTH_SHORT).show();
                         break;
                 }
                 return false;
